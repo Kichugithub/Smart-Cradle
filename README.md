@@ -20,12 +20,6 @@ An IoT-based smart cradle that helps working parents monitor their babies in rea
 - Blynk IoT Platform
 - Arduino IDE, C++
 
-## 📁 File Structure
-- `code/` – Arduino/ESP32 source files
-- `hardware/` – Circuit diagrams and component images
-- `docs/` – Report, block diagrams
-- `media/` – Screenshots or videos for demo
-
 ## 🚀 Getting Started
 1. Flash `esp8266_cradle.ino` to NodeMCU
 2. Flash `esp32_cam_stream.ino` to ESP32-CAM
@@ -38,5 +32,3 @@ An IoT-based smart cradle that helps working parents monitor their babies in rea
 - Climbing detection using ML
 - Integration with mobile apps
 
-## 📜 License
-[MIT License](LICENSE)
