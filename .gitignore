@@ -1,0 +1,23 @@
+# Arduino and ESP compiled files
+*.hex
+*.bin
+*.elf
+*.tmp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Arduino backup files
+*.ino.backup
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Python (if any ML/image processing added later)
+__pycache__/
+*.pyc
