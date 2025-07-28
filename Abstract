@@ -1,0 +1,13 @@
+With the increasing number of working parents, taking care of babies on a daily basis
+has become a more challenging task. Many families rely on grandparents' help or
+baby care facilities. However, it can be difficult for parents to monitor their babies
+consistently. To address this challenge, we propose an Internet of Things-based Smart
+Cradle System for real-time monitoring. The system utilizes NodeMCU Controller
+Board and Wi-Fi connectivity to transmit sensor data to the server. It monitors
+important parameters such as moisture and crying. When the baby cries, the cradle
+automatically swings using a sound detection sensor and a servo motor. Parents can
+remotely view their baby via a web camera and even activate a lullaby on the cradle
+through the server equipped with a mini speaker. In addition, the prototype can detect
+wetness using a sensor and send notifications to the parent. The fabricated prototype
+is cost-effective, easy to use, and operates safely, allowing for convenient baby
+monitoring anytime, anywhere.
